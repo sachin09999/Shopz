@@ -10,19 +10,13 @@ Shopz is a basic e-commerce application that aims to provide users with a seamle
 - **Order Tracking**: Stay updated with real-time order tracking and notifications.
 - **Personalized Recommendations**: Receive product suggestions tailored to your preferences.
 
-## Technology Stack
-
-- **Frontend**: [Specify technologies, e.g., React, Angular]
-- **Backend**: [Specify technologies, e.g., Node.js, Django]
-- **Database**: [Specify technologies, e.g., MongoDB, MySQL]
-
 ## Getting Started
 
 To get a local copy up and running, follow these simple steps:
 
 1. Clone the repository
    ```bash
-   git clone https://github.com/yourusername/shopz.git
+   git clone https://github.com/sachin09999/shopz.git
    ```
 2. Install dependencies
    ```bash
@@ -43,12 +37,5 @@ Contributions are what make the open-source community such an amazing place to l
 4. Push to the Branch (`git push origin feature/AmazingFeature`)
 5. Open a Pull Request
 
-## License
 
-Distributed under the MIT License. See `LICENSE` for more information.
-
-## Contact
-
-Your Name - [Your Email](mailto:your-email@example.com)
-
-Project Link: [https://github.com/yourusername/shopz](https://github.com/yourusername/shopz)
+Project Link: [https://github.com/yourusername/shopz](https://github.com/sachin09999/shopz)
