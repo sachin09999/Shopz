@@ -38,4 +38,3 @@ Contributions are what make the open-source community such an amazing place to l
 5. Open a Pull Request
 
 
-Project Link: [https://github.com/yourusername/shopz](https://github.com/sachin09999/shopz)
